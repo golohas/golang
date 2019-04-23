@@ -15,3 +15,7 @@ func test_pipe() {
 
 	fmt.Println(len(pipe))
 }
+
+func test() {
+	fmt.Println("test")
+}
